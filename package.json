@@ -12,7 +12,7 @@
 	"dependencies": {
 		"react": "17.0.2",
 		"react-native": "0.68.1",
-		"babel-plugin-module-resolver": "4.1.0"
+		"@rnmapbox/maps": "rnmapbox/maps#main"
 	},
 	"devDependencies": {
 		"@babel/core": "7.12.9",
