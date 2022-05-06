@@ -12,7 +12,7 @@ export const Map: FC<MapProps> = () => {
 			<MapboxGL.MapView
 				style={styles.map}
 				styleJSON={
-					'https://api.maptiler.com/maps/bright/style.json?key=TDMJ2TNuxYJntVUlUSPE'
+					'https://api.maptiler.com/maps/bright/style.json?key=z8XRLvJ9443AAxIq4ay9'
 				}>
 				<MapboxGL.UserLocation />
 			</MapboxGL.MapView>
